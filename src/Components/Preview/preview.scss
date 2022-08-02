@@ -1,0 +1,16 @@
+.preview-code {
+    flex: 1;
+}
+.preview {
+    flex: 1;
+    font-size: 16px;
+    background-color: #ddd;
+}
+.loading {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}
